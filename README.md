@@ -1,2 +1,2 @@
-# A simple Template for a bigger Python Project
+# A simple Template for a easier start to a Python Project
 
