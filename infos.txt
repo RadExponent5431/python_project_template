@@ -1,0 +1,5 @@
+Here is where the Project Infos are written down
+version=0.1
+name=
+author=
+dependencies=
