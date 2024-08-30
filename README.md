@@ -35,7 +35,7 @@ python_project_template/
 
 ## Installation
 ```plaintext
-git clone https://github.com/yourusername/python_project_template.git
+git clone https://github.com/RadExponent5431/python_project_template.git
 cd python_project_template
 ```
 
